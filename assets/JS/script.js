@@ -44,7 +44,7 @@ function startCalculator(){
                     return;
                 }
             }catch(e){
-                alert('Insira um cálculo possível');
+                alert('Cálculo inválido');
                 return;
             } 
         },
