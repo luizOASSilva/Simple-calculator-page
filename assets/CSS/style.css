@@ -63,6 +63,5 @@ section .calc {
 @media (max-width: 524px) {
     section {
         padding: 5%;
-    }
-    
+    }   
 }
